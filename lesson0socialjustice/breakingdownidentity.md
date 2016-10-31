@@ -1,7 +1,7 @@
 ##Assignment: Breaking Down Identity
 
 ###List as many of your own identity categories as you can: (e.g. race, class, gender, age, religion, education, family structure, etc)
-* Race = I consider myself Guatemalan from Mayan descent. So I guess that makes me multi-racial.
+* Race = I consider myself Guatemalan from Mayan and Spaniard decent. So I guess that makes me multi-racial.
 * Ethnicity = I'm Latina. I grew up in a Spanish speaking home and learned English at school.
 * Class = I grew up in the lower-class with a single mother trying to make ends meet. I became a Teacher and consider myself lower middle class.
 * Gender = Female
