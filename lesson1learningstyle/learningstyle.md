@@ -5,7 +5,7 @@
 * After reading the Learning Styles and strategies article, I would consider myself an Active, Sensing, Visual, and Sequential Learner. It's difficult to process new material when little time is allowed for Questions. I have a hard time with abstract materials because it's hard to visualize it. It's challenging for me to remember new concepts when the instructor is jumping around and things are not presented in a sequential form.
 
 ###Try to identify which strategies work well for you.
-* I enjoyed reading the "Examples of ways to process learning code." I agree with a lot of points in the Learning Styles Article and use a few already.
+* I enjoyed the reading "Examples of ways to process learning code." I agree with a lot of points in the Learning Styles Article and use a few already.
 * I'm aware of lectures being an important part of a classroom environment and they are also really important for Auditory Learners. Since lectures are really hard for me to follow I like to take notes because it sink in better when I'm writing.
 * I rewrite my notes because it helps me remember and learn better. I also mentally rewrite new concepts because if I can mentally see it then I know I understand it.
 * I benefit from study groups because we ask/answer each others questions.
