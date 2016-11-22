@@ -10,4 +10,4 @@
 7. Repeat steps 3-6 with the second slice of bread and the jar of jelly.
 8. Take a second slice of bread
 9. Repeat steps 2-5 with the second slice of bread and the jar of jelly.
-10. Put that slice of bread on top of peanut butter slice make jelly is touch peanut butter.
+10. Put that slice of bread on top of peanut butter slice make sure jelly is touch peanut butter.
